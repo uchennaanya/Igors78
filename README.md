@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![At Sea](/img/atsea.jpg)
+
 <h1 align="center">I'm Igor</h1>
 <h3 align="center">A passionate Full-stack developer from Latvia</h3>
 
-<p align="left" style="border-radius: 50%"> <img src="https://media-exp1.licdn.com/dms/image/C5103AQHRr0x-QNT7pg/profile-displayphoto-shrink_200_200/0?e=1606953600&v=beta&t=fE3glWkpc9rSQehHWYAG-La81wzII03UlcNguJTf2KE" alt="Igors78" /> </p>
+<p align="left"> <img style="border-radius: 50%" src="https://media-exp1.licdn.com/dms/image/C5103AQHRr0x-QNT7pg/profile-displayphoto-shrink_200_200/0?e=1606953600&v=beta&t=fE3glWkpc9rSQehHWYAG-La81wzII03UlcNguJTf2KE" alt="Igors78" /> </p>
 
 - 🌱 I’m currently learning **HTML/CSS**
 
