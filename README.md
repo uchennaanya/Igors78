@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Igor</h1>
 <h3 align="center">A passionate Full-stack developer from Latvia</h3>
 
-![Igor](img/profile.jpeg)
+
 
 - 🌱 I’m currently learning **HTML/CSS**
 
