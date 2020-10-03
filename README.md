@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![At Sea](/img/atsea.jpg)
+
 
 <h1 align="center">I'm Igor</h1>
 <h3 align="center">A passionate Full-stack developer from Latvia</h3>
