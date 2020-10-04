@@ -41,9 +41,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igors78&layout=compact" alt="Igors78" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Igors78&show_icons=true" alt="Igors78" /></p>
-
-<style>
-#igor {
-    border: 2px solid grey;
-    border-radius: 30px;
-}
