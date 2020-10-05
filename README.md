@@ -15,24 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Image](img/atsea.jpg)
 
+<h1 align="center">I'm Igor<br>- 😄 Pronouns: E-gorr </h1>
 
-<h1 align="center">I'm Igor</h1>
 <h3 align="center">A passionate Full-stack developer from Latvia</h3>
 
-![Image](img/atsea.jpg)
+
 
 - 🌱 I’m currently learning **HTML/CSS**
 
 - 📫 How to reach me **oleinikovsigors@gmail.com**
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <a href="https://twitter.com/@oleinikovs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@oleinikovs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/igors oleinikovs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="igors oleinikovs" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/igors oleinikovs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="igors oleinikovs" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/oleinikovs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="oleinikovs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/oleinikovs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="oleinikovs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/igors-oleinikovs-17a10958/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="igors oleinikovs" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/oleinikovs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="igors oleinikovs" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/oleinikovsigors" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="oleinikovs" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/oleinikovsigors" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="oleinikovs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
